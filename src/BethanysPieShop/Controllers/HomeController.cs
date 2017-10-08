@@ -16,9 +16,9 @@ using System.Linq;
 
 namespace BethanysPieShop.Controllers
 {
-    //[RequireHeader]
+    //[RequireHeader] //LD STEP003
     [ServiceFilter(typeof(TimerAction))]
-    //[TimerAction]
+    //[TimerAction] //LD STEP004
     public class HomeController : Controller
     {
         private readonly IPieRepository _pieRepository;
@@ -88,6 +88,7 @@ namespace BethanysPieShop.Controllers
             _logger.LogInformation(LogEventIds.LoadHomepage, "Cache was cleared: reason " + reason.ToString());
         }
 
+        //LD STEP001
         public IActionResult TestUrl()
         {
             // Generates /Pie/Details/1		
@@ -99,6 +100,7 @@ namespace BethanysPieShop.Controllers
 
         public IActionResult SetLanguage(string culture, string returnUrl)
         {
+            //LD STEP002
             //Logging
             _logger.LogInformation(LogEventIds.ChangeLanguage, "Language changed to {0}", culture);
 

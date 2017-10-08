@@ -11827,10 +11827,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luca\\Desktop\\Demos 9856\\BethanysPieShop.Tests\\BethanysPieShop.Tests.csproj",
+      "projectUniqueName": "C:\\TFS.ldazure\\Enterprice-Solution-Challenges-Exercise\\BethanysPieShop.Tests\\BethanysPieShop.Tests.csproj",
       "projectName": "BethanysPieShop.Tests",
-      "projectPath": "C:\\Users\\Luca\\Desktop\\Demos 9856\\BethanysPieShop.Tests\\BethanysPieShop.Tests.csproj",
-      "outputPath": "C:\\Users\\Luca\\Desktop\\Demos 9856\\BethanysPieShop.Tests\\obj\\",
+      "projectPath": "C:\\TFS.ldazure\\Enterprice-Solution-Challenges-Exercise\\BethanysPieShop.Tests\\BethanysPieShop.Tests.csproj",
+      "outputPath": "C:\\TFS.ldazure\\Enterprice-Solution-Challenges-Exercise\\BethanysPieShop.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -11838,8 +11838,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\Luca\\Desktop\\Demos 9856\\src\\BethanysPieShop\\BethanysPieShop.csproj": {
-              "projectPath": "C:\\Users\\Luca\\Desktop\\Demos 9856\\src\\BethanysPieShop\\BethanysPieShop.csproj"
+            "C:\\TFS.ldazure\\Enterprice-Solution-Challenges-Exercise\\src\\BethanysPieShop\\BethanysPieShop.csproj": {
+              "projectPath": "C:\\TFS.ldazure\\Enterprice-Solution-Challenges-Exercise\\src\\BethanysPieShop\\BethanysPieShop.csproj"
             }
           }
         }

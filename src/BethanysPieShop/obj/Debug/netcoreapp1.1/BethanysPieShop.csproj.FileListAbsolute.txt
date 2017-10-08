@@ -25,3 +25,32 @@ C:\Users\Luca\Desktop\Demos 9856\src\BethanysPieShop\obj\Debug\netcoreapp1.1\fr\
 C:\Users\Luca\Desktop\Demos 9856\src\BethanysPieShop\obj\Debug\netcoreapp1.1\nl\BethanysPieShop.resources.dll
 C:\Users\Luca\Desktop\Demos 9856\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.dll
 C:\Users\Luca\Desktop\Demos 9856\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.pdb
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\bin\Debug\netcoreapp1.1\web.config
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\bin\Debug\netcoreapp1.1\BethanysPieShop.deps.json
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\bin\Debug\netcoreapp1.1\BethanysPieShop.runtimeconfig.json
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\bin\Debug\netcoreapp1.1\BethanysPieShop.runtimeconfig.dev.json
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\bin\Debug\netcoreapp1.1\BethanysPieShop.dll
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\bin\Debug\netcoreapp1.1\BethanysPieShop.pdb
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\bin\Debug\netcoreapp1.1\fr-FR\BethanysPieShop.resources.dll
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\bin\Debug\netcoreapp1.1\fr\BethanysPieShop.resources.dll
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\bin\Debug\netcoreapp1.1\nl\BethanysPieShop.resources.dll
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Controllers.HomeController.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Models.Order.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Views.Home.Index.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Controllers.HomeController.fr-FR.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Controllers.HomeController.fr.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Controllers.HomeController.nl.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Models.Order.fr-FR.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Models.Order.fr.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Models.Order.nl.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Views.Home.Index.fr-FR.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Views.Home.Index.fr.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.Resources.Views.Home.Index.nl.resources
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.csproj.GenerateResource.Cache
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.AssemblyInfo.cs
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\fr-FR\BethanysPieShop.resources.dll
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\fr\BethanysPieShop.resources.dll
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\nl\BethanysPieShop.resources.dll
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.dll
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.pdb
+C:\TFS.ldazure\Enterprice-Solution-Challenges-Exercise\src\BethanysPieShop\obj\Debug\netcoreapp1.1\BethanysPieShop.csprojResolveAssemblyReference.cache

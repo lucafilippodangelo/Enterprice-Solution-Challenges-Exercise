@@ -10714,10 +10714,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luca\\Desktop\\Demos 9856\\src\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectUniqueName": "C:\\TFS.ldazure\\Enterprice-Solution-Challenges-Exercise\\src\\BethanysPieShop\\BethanysPieShop.csproj",
       "projectName": "BethanysPieShop",
-      "projectPath": "C:\\Users\\Luca\\Desktop\\Demos 9856\\src\\BethanysPieShop\\BethanysPieShop.csproj",
-      "outputPath": "C:\\Users\\Luca\\Desktop\\Demos 9856\\src\\BethanysPieShop\\obj\\",
+      "projectPath": "C:\\TFS.ldazure\\Enterprice-Solution-Challenges-Exercise\\src\\BethanysPieShop\\BethanysPieShop.csproj",
+      "outputPath": "C:\\TFS.ldazure\\Enterprice-Solution-Challenges-Exercise\\src\\BethanysPieShop\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
