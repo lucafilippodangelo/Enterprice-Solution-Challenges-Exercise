@@ -1,0 +1,17 @@
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\BethanysPieShop.Tests.deps.json
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\BethanysPieShop.Tests.runtimeconfig.json
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\BethanysPieShop.Tests.runtimeconfig.dev.json
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\BethanysPieShop.Tests.dll
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\BethanysPieShop.Tests.pdb
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\BethanysPieShop.dll
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\BethanysPieShop.pdb
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\fr\BethanysPieShop.resources.dll
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\fr-FR\BethanysPieShop.resources.dll
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\bin\Debug\netcoreapp1.1\nl\BethanysPieShop.resources.dll
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\obj\Debug\netcoreapp1.1\BethanysPieShop.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\obj\Debug\netcoreapp1.1\BethanysPieShop.Tests.AssemblyInfo.cs
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\obj\Debug\netcoreapp1.1\BethanysPieShop.Tests.dll
+C:\Users\Luca\Desktop\Demos 9856\BethanysPieShop.Tests\obj\Debug\netcoreapp1.1\BethanysPieShop.Tests.pdb
