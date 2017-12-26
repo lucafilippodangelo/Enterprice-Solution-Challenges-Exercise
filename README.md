@@ -103,12 +103,15 @@ DEFINITION: allow us to add logic on MVC requestes
   Requiring HTTPS
 
 **REQUEST PIPELINE WITH FILTERS**
+
 When a request is received, it goes in sequence to:
+
 1 - middleware
 2 - routing middleware
 3 - action
 
 then the action filter is applied
+
 4 - action filter
 
 **TYPES OF FILTERS**
@@ -123,6 +126,7 @@ those methods receive an "AuthorizationFilterContext", in order to be able to di
 
 **3 - Action** (those filters can run before of after the action itself execution, they can change the responce value of the action)
 are usually used for general purpose, usually for logging.
+
 The methods "OnActionExecuting" and "OnActionExecuted" gets in input the "ActionExecutedContext", the context gives access to:
 - Controller
 - Result
@@ -138,14 +142,11 @@ Example of "ExceptionFilterAttribute", we have to register the exception on acti
 
       >//LD STEP005 
 
-
 **5 - Result** (they can run before or after an action result, they will only run if the action method run successfully)
 
 We can also register a GLOBAL FILTER in "Startup.cs", to the filter will be applied not just at action or controller level but in all the application.
 
       >//LD STEP006 
-
-	        ```
             services.AddMvc
                 (
                     config => { config.Filters.AddService(typeof(TimerAction)); }
@@ -154,4 +155,4 @@ We can also register a GLOBAL FILTER in "Startup.cs", to the filter will be appl
                     LanguageViewLocationExpanderFormat.Suffix,
                     opts => { opts.ResourcesPath = "Resources"; })
                 .AddDataAnnotationsLocalization();
-            ```
+       
