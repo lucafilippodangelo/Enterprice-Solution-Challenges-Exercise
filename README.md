@@ -107,7 +107,9 @@ DEFINITION: allow us to add logic on MVC requestes
 When a request is received, it goes in sequence to:
 
 1 - middleware
+
 2 - routing middleware
+
 3 - action
 
 then the action filter is applied
